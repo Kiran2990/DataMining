@@ -1,0 +1,48 @@
+{51 66 61 71 100 95 80} Growth Rate :2.628
+{56 51 66 61 71 100 95 80} Growth Rate :2.628
+{56 66 61 71 100 95 80} Growth Rate :2.628
+{66 61 71 100 95 80} Growth Rate :2.628
+{51 66 61 71 100 95} Growth Rate :2.514
+{56 51 66 61 71 100 95} Growth Rate :2.514
+{56 66 61 71 100 95} Growth Rate :2.514
+{66 61 71 100 95} Growth Rate :2.514
+{51 66 61 100 95} Growth Rate :2.514
+{56 51 66 61 100 95} Growth Rate :2.514
+{56 66 61 100 95} Growth Rate :2.514
+{66 61 100 95} Growth Rate :2.514
+{51 66 100 95} Growth Rate :2.514
+{56 51 66 100 95} Growth Rate :2.514
+{56 66 100 95} Growth Rate :2.514
+{66 100 95} Growth Rate :2.514
+{51 66 61 71 33 100} Growth Rate :2.499
+{56 51 66 61 71 33 100} Growth Rate :2.499
+{56 66 61 71 33 100} Growth Rate :2.499
+{66 61 71 33 100} Growth Rate :2.499
+{51 66 61 33 100} Growth Rate :2.499
+{56 51 66 61 33 100} Growth Rate :2.499
+{56 66 61 33 100} Growth Rate :2.499
+{66 61 33 100} Growth Rate :2.499
+{51 66 33 100} Growth Rate :2.499
+{56 51 66 33 100} Growth Rate :2.499
+{56 66 33 100} Growth Rate :2.499
+{66 33 100} Growth Rate :2.499
+{51 33 100} Growth Rate :2.499
+{56 51 33 100} Growth Rate :2.499
+{56 33 100} Growth Rate :2.499
+{33 100} Growth Rate :2.499
+{51 66 61 71 100} Growth Rate :2.499
+{56 51 66 61 71 100} Growth Rate :2.499
+{56 66 61 71 100} Growth Rate :2.499
+{66 61 71 100} Growth Rate :2.499
+{51 66 61 100} Growth Rate :2.499
+{56 51 66 61 100} Growth Rate :2.499
+{56 66 61 100} Growth Rate :2.499
+{66 61 100} Growth Rate :2.499
+{51 66 100} Growth Rate :2.499
+{56 51 66 100} Growth Rate :2.499
+{56 66 100} Growth Rate :2.499
+{66 100} Growth Rate :2.499
+{51 100} Growth Rate :2.499
+{56 51 100} Growth Rate :2.499
+{56 100} Growth Rate :2.499
+{100} Growth Rate :2.499

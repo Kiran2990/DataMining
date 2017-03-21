@@ -1,0 +1,47 @@
+{51 66 61 71 100 95 80} , {56 51 66 61 71 100 95 80} , Jaccard Similarity: 1
+{56 51 66 61 71 100 95 80} , {56 66 61 71 100 95 80} , Jaccard Similarity: 1
+{56 66 61 71 100 95 80} , {66 61 71 100 95 80} , Jaccard Similarity: 1
+{66 61 71 100 95 80} , {51 66 61 71 100 95} , Jaccard Similarity: 0.97
+{51 66 61 71 100 95} , {56 51 66 61 71 100 95} , Jaccard Similarity: 1
+{56 51 66 61 71 100 95} , {56 66 61 71 100 95} , Jaccard Similarity: 1
+{56 66 61 71 100 95} , {66 61 71 100 95} , Jaccard Similarity: 1
+{66 61 71 100 95} , {51 66 61 100 95} , Jaccard Similarity: 1
+{51 66 61 100 95} , {56 51 66 61 100 95} , Jaccard Similarity: 1
+{56 51 66 61 100 95} , {56 66 61 100 95} , Jaccard Similarity: 1
+{56 66 61 100 95} , {66 61 100 95} , Jaccard Similarity: 1
+{66 61 100 95} , {51 66 100 95} , Jaccard Similarity: 1
+{51 66 100 95} , {56 51 66 100 95} , Jaccard Similarity: 1
+{56 51 66 100 95} , {56 66 100 95} , Jaccard Similarity: 1
+{56 66 100 95} , {66 100 95} , Jaccard Similarity: 1
+{66 100 95} , {51 66 61 71 33 100} , Jaccard Similarity: 0.893
+{51 66 61 71 33 100} , {56 51 66 61 71 33 100} , Jaccard Similarity: 1
+{56 51 66 61 71 33 100} , {56 66 61 71 33 100} , Jaccard Similarity: 1
+{56 66 61 71 33 100} , {66 61 71 33 100} , Jaccard Similarity: 1
+{66 61 71 33 100} , {51 66 61 33 100} , Jaccard Similarity: 1
+{51 66 61 33 100} , {56 51 66 61 33 100} , Jaccard Similarity: 1
+{56 51 66 61 33 100} , {56 66 61 33 100} , Jaccard Similarity: 1
+{56 66 61 33 100} , {66 61 33 100} , Jaccard Similarity: 1
+{66 61 33 100} , {51 66 33 100} , Jaccard Similarity: 1
+{51 66 33 100} , {56 51 66 33 100} , Jaccard Similarity: 1
+{56 51 66 33 100} , {56 66 33 100} , Jaccard Similarity: 1
+{56 66 33 100} , {66 33 100} , Jaccard Similarity: 1
+{66 33 100} , {51 33 100} , Jaccard Similarity: 1
+{51 33 100} , {56 51 33 100} , Jaccard Similarity: 1
+{56 51 33 100} , {56 33 100} , Jaccard Similarity: 1
+{56 33 100} , {33 100} , Jaccard Similarity: 1
+{33 100} , {51 66 61 71 100} , Jaccard Similarity: 1
+{51 66 61 71 100} , {56 51 66 61 71 100} , Jaccard Similarity: 1
+{56 51 66 61 71 100} , {56 66 61 71 100} , Jaccard Similarity: 1
+{56 66 61 71 100} , {66 61 71 100} , Jaccard Similarity: 1
+{66 61 71 100} , {51 66 61 100} , Jaccard Similarity: 1
+{51 66 61 100} , {56 51 66 61 100} , Jaccard Similarity: 1
+{56 51 66 61 100} , {56 66 61 100} , Jaccard Similarity: 1
+{56 66 61 100} , {66 61 100} , Jaccard Similarity: 1
+{66 61 100} , {51 66 100} , Jaccard Similarity: 1
+{51 66 100} , {56 51 66 100} , Jaccard Similarity: 1
+{56 51 66 100} , {56 66 100} , Jaccard Similarity: 1
+{56 66 100} , {66 100} , Jaccard Similarity: 1
+{66 100} , {51 100} , Jaccard Similarity: 1
+{51 100} , {56 51 100} , Jaccard Similarity: 1
+{56 51 100} , {56 100} , Jaccard Similarity: 1
+{56 100} , {100} , Jaccard Similarity: 1

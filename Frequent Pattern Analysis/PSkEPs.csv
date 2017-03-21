@@ -1,0 +1,49 @@
+Objective Function Result: 0.15561449941278102
+{51 66 61 71 100 95 80} ,GrowthRate: 2.628,SuppC1: 0.626,SuppC2: 0.238
+{56 51 66 61 71 100 95 80} ,GrowthRate: 2.628,SuppC1: 0.626,SuppC2: 0.238
+{56 66 61 71 100 95 80} ,GrowthRate: 2.628,SuppC1: 0.626,SuppC2: 0.238
+{66 61 71 100 95 80} ,GrowthRate: 2.628,SuppC1: 0.626,SuppC2: 0.238
+{51 66 61 71 100 95} ,GrowthRate: 2.514,SuppC1: 0.644,SuppC2: 0.256
+{56 51 66 61 71 100 95} ,GrowthRate: 2.514,SuppC1: 0.644,SuppC2: 0.256
+{56 66 61 71 100 95} ,GrowthRate: 2.514,SuppC1: 0.644,SuppC2: 0.256
+{66 61 71 100 95} ,GrowthRate: 2.514,SuppC1: 0.644,SuppC2: 0.256
+{51 66 61 100 95} ,GrowthRate: 2.514,SuppC1: 0.644,SuppC2: 0.256
+{56 51 66 61 100 95} ,GrowthRate: 2.514,SuppC1: 0.644,SuppC2: 0.256
+{56 66 61 100 95} ,GrowthRate: 2.514,SuppC1: 0.644,SuppC2: 0.256
+{66 61 100 95} ,GrowthRate: 2.514,SuppC1: 0.644,SuppC2: 0.256
+{51 66 100 95} ,GrowthRate: 2.514,SuppC1: 0.644,SuppC2: 0.256
+{56 51 66 100 95} ,GrowthRate: 2.514,SuppC1: 0.644,SuppC2: 0.256
+{56 66 100 95} ,GrowthRate: 2.514,SuppC1: 0.644,SuppC2: 0.256
+{66 100 95} ,GrowthRate: 2.514,SuppC1: 0.644,SuppC2: 0.256
+{51 66 61 71 33 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{56 51 66 61 71 33 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{56 66 61 71 33 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{66 61 71 33 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{51 66 61 33 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{56 51 66 61 33 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{56 66 61 33 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{66 61 33 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{51 66 33 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{56 51 66 33 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{56 66 33 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{66 33 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{51 33 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{56 51 33 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{56 33 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{33 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{51 66 61 71 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{56 51 66 61 71 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{56 66 61 71 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{66 61 71 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{51 66 61 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{56 51 66 61 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{56 66 61 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{66 61 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{51 66 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{56 51 66 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{56 66 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{66 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{51 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{56 51 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{56 100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
+{100} ,GrowthRate: 2.499,SuppC1: 0.721,SuppC2: 0.289
